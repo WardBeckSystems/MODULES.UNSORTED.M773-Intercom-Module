@@ -34,7 +34,7 @@ Wiki page: [M773](../../../../PAGES/M773.md)
 - **Words (OCR):** 37 in 27 lines: 12.96 · PiFches AT 4.500 9.Oo0 · 2-18 · 5.000 · 5.54 · HOLES · 281 DIA = · MAIERAAL: Fish · PARER · Thick · ISSUE DATE · REVISION
 - **Title block:** (279, 9)–(432, 79) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN GEB · M773 / M773A · ENG.GEB "/82 · Fisk PA PER · CKD_ · COVER · APP · SCALE @ · ISSUE · 015 · 773-03-004
 
-Every curve, box, word and wire group: [1982 - 773-03-004 - M773A FISH PAPER COVER - DRN GEB - ENG GEB - ISS 1 (traced).json](../MECHANICAL/1982%20-%20773-03-004%20-%20M773A%20FISH%20PAPER%20COVER%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201%20(traced).json) (the CAD file: `1982 - 773-03-004 - M773A FISH PAPER COVER - DRN GEB - ENG GEB - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 773-03-004 - M773A FISH PAPER COVER - DRN GEB - ENG GEB - ISS 1 (traced).json](../MECHANICAL/1982%20-%20773-03-004%20-%20M773A%20FISH%20PAPER%20COVER%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 773-03-004 - M773A FISH PAPER COVER - DRN GEB - ENG GEB - ISS 1 (traced).dxf`).
 
 ## Full text
 
